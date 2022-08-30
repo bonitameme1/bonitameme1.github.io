@@ -8720,3 +8720,19 @@ input, select, textarea {
 	max-width: 1000px;
 
 }
+
+.lofi {
+	padding-right: 450px;
+	padding-left: 50px;
+	padding-bottom: 100px;
+}
+
+
+.captiontext1 {
+	padding-right: 200px;
+	padding-left: 400px;
+	padding-top: 25px;
+	
+	
+
+}
